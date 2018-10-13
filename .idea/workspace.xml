@@ -81,25 +81,39 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="4" />
+          <entry key="properties" value="19" />
+          <entry key="txt" value="10" />
           <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Properties" value="19" />
           <entry key="XML" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="91" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+            <state relative-caret-position="228">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -128,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/connection/SessionFactoryConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
+            <state relative-caret-position="342">
               <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3952">
-              <caret line="208" selection-start-line="208" selection-end-line="208" />
+            <state relative-caret-position="121">
+              <caret line="256" column="32" lean-forward="true" selection-start-line="256" selection-start-column="32" selection-end-line="256" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -149,7 +163,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,8 +179,9 @@
         <option value="$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/connection/Session.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/connection/SessionFactoryConfig.java" />
         <option value="$PROJECT_DIR$/project/pom.xml" />
-        <option value="$PROJECT_DIR$/project/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/project/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/project/src/main/resources/log4j.properties" />
       </list>
     </option>
   </component>
@@ -236,64 +256,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
+              <item name="CommpetencyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommpetencyProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
+              <item name="CommpetencyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommpetencyProject" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
+              <item name="CommpetencyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommpetencyProject" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
+              <item name="CommpetencyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommpetencyProject" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name=".pl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name=".pl" type="462c0819:PsiDirectoryNode" />
-              <item name="project_competencies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projekt kompetencyjny" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt kompetencyjny" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name=".pl" type="462c0819:PsiDirectoryNode" />
-              <item name="project_competencies" type="462c0819:PsiDirectoryNode" />
-              <item name="connection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,7 +289,7 @@
     <property name="SearchEverywhereHistoryKey" value="find action&#9;ACTION&#9;GotoAction" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539445642440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539446209349" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -316,7 +297,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36551723" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -369,6 +350,7 @@
             </option>
             <option name="goals">
               <list>
+                <option value="clean" />
                 <option value="install" />
                 <option value="jar:jar" />
               </list>
@@ -411,7 +393,7 @@
       <workItem from="1539345136622" duration="1255000" />
       <workItem from="1539430288429" duration="3669000" />
       <workItem from="1539434361822" duration="6235000" />
-      <workItem from="1539445355389" duration="287000" />
+      <workItem from="1539445355389" duration="775000" />
     </task>
     <servers />
   </component>
@@ -421,7 +403,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12662000" />
+    <option name="totallyTimeSpent" value="13150000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,7 +416,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-621" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,7 +435,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35927504" side_tool="true" visible="true" weight="0.3340564" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35927504" side_tool="true" weight="0.3340564" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329718" />
@@ -504,9 +485,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/dataSources/952e55f1-2081-43a0-adfc-a3720e9cdb01.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://F:/PROGRAMY/Java 8/jdk/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
@@ -516,25 +494,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3952">
-          <caret line="208" selection-start-line="208" selection-end-line="208" />
+        <state relative-caret-position="121">
+          <caret line="256" column="32" lean-forward="true" selection-start-line="256" selection-start-column="32" selection-end-line="256" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/connection/SessionFactoryConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
+        <state relative-caret-position="342">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -543,8 +511,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/logs/keepInMind.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="91" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
