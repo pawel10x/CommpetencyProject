@@ -272,3 +272,141 @@ INFO  13-10-2018 17:28:14.982 [Main.main()] closing
 INFO  13-10-2018 17:28:14.983 [Main.main()] cleaning up connection pool: jdbc:mysql://db4free.net:3306
 INFO  13-10-2018 17:28:24.086 [Main.main()] closing
 INFO  13-10-2018 17:28:24.086 [Main.main()] cleaning up connection pool: jdbc:mysql://db4free.net:3306
+INFO  13-10-2018 17:43:56.576 [Main.main()] Hibernate 3.2.6
+INFO  13-10-2018 17:43:56.581 [Main.main()] hibernate.properties not found
+INFO  13-10-2018 17:43:56.584 [Main.main()] Bytecode provider name : cglib
+INFO  13-10-2018 17:43:56.587 [Main.main()] using JDK 1.4 java.sql.Timestamp handling
+INFO  13-10-2018 17:43:56.627 [Main.main()] configuring from resource: hibernate.cfg.xml
+INFO  13-10-2018 17:43:56.627 [Main.main()] Configuration resource: hibernate.cfg.xml
+INFO  13-10-2018 17:43:57.028 [Main.main()] Configured SessionFactory: null
+INFO  13-10-2018 17:43:57.033 [Main.main()] Using Hibernate built-in connection pool (not for production use!)
+INFO  13-10-2018 17:43:57.033 [Main.main()] Hibernate connection pool size: 20
+INFO  13-10-2018 17:43:57.034 [Main.main()] autocommit mode: false
+INFO  13-10-2018 17:43:57.042 [Main.main()] using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://db4free.net:3306
+INFO  13-10-2018 17:43:57.043 [Main.main()] connection properties: {user=januszteam, password=****}
+INFO  13-10-2018 17:43:57.929 [Main.main()] RDBMS: MySQL, version: 8.0.12
+INFO  13-10-2018 17:43:57.929 [Main.main()] JDBC driver: MySQL Connector/J, version: mysql-connector-java-8.0.12 (Revision: 24766725dc6e017025532146d94c6e6c488fb8f1)
+INFO  13-10-2018 17:43:57.941 [Main.main()] Using dialect: org.hibernate.dialect.MySQLDialect
+INFO  13-10-2018 17:43:57.961 [Main.main()] Using default transaction strategy (direct JDBC transactions)
+INFO  13-10-2018 17:43:57.962 [Main.main()] No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+INFO  13-10-2018 17:43:57.963 [Main.main()] Automatic flush during beforeCompletion(): disabled
+INFO  13-10-2018 17:43:57.963 [Main.main()] Automatic session close at end of transaction: disabled
+INFO  13-10-2018 17:43:57.963 [Main.main()] JDBC batch size: 15
+INFO  13-10-2018 17:43:57.963 [Main.main()] JDBC batch updates for versioned data: disabled
+INFO  13-10-2018 17:43:57.964 [Main.main()] Scrollable result sets: enabled
+INFO  13-10-2018 17:43:57.964 [Main.main()] JDBC3 getGeneratedKeys(): enabled
+INFO  13-10-2018 17:43:57.964 [Main.main()] Connection release mode: auto
+INFO  13-10-2018 17:43:57.964 [Main.main()] Maximum outer join fetch depth: 2
+INFO  13-10-2018 17:43:57.965 [Main.main()] Default batch fetch size: 1
+INFO  13-10-2018 17:43:57.965 [Main.main()] Generate SQL with comments: disabled
+INFO  13-10-2018 17:43:57.965 [Main.main()] Order SQL updates by primary key: disabled
+INFO  13-10-2018 17:43:57.965 [Main.main()] Order SQL inserts for batching: disabled
+INFO  13-10-2018 17:43:57.965 [Main.main()] Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+INFO  13-10-2018 17:43:57.966 [Main.main()] Using ASTQueryTranslatorFactory
+INFO  13-10-2018 17:43:57.966 [Main.main()] Query language substitutions: {}
+INFO  13-10-2018 17:43:57.966 [Main.main()] JPA-QL strict compliance: disabled
+INFO  13-10-2018 17:43:57.966 [Main.main()] Second-level cache: enabled
+INFO  13-10-2018 17:43:57.966 [Main.main()] Query cache: disabled
+INFO  13-10-2018 17:43:57.966 [Main.main()] Cache provider: org.hibernate.cache.NoCacheProvider
+INFO  13-10-2018 17:43:57.966 [Main.main()] Optimize cache for minimal puts: disabled
+INFO  13-10-2018 17:43:57.967 [Main.main()] Structured second-level cache entries: disabled
+INFO  13-10-2018 17:43:57.969 [Main.main()] Statistics: disabled
+INFO  13-10-2018 17:43:57.969 [Main.main()] Deleted entity synthetic identifier rollback: disabled
+INFO  13-10-2018 17:43:57.969 [Main.main()] Default entity-mode: pojo
+INFO  13-10-2018 17:43:57.970 [Main.main()] Named query checking : enabled
+INFO  13-10-2018 17:43:57.989 [Main.main()] building session factory
+INFO  13-10-2018 17:43:57.994 [Main.main()] Not binding factory to JNDI, no JNDI name configured
+INFO  13-10-2018 17:44:49.423 [Main.main()] closing
+INFO  13-10-2018 17:44:49.423 [Main.main()] cleaning up connection pool: jdbc:mysql://db4free.net:3306
+INFO  13-10-2018 17:45:36.520 [Main.main()] Hibernate 3.2.6
+INFO  13-10-2018 17:45:36.522 [Main.main()] hibernate.properties not found
+INFO  13-10-2018 17:45:36.526 [Main.main()] Bytecode provider name : cglib
+INFO  13-10-2018 17:45:36.530 [Main.main()] using JDK 1.4 java.sql.Timestamp handling
+INFO  13-10-2018 17:45:36.567 [Main.main()] configuring from resource: hibernate.cfg.xml
+INFO  13-10-2018 17:45:36.567 [Main.main()] Configuration resource: hibernate.cfg.xml
+INFO  13-10-2018 17:45:36.770 [Main.main()] Configured SessionFactory: null
+INFO  13-10-2018 17:45:36.774 [Main.main()] Using Hibernate built-in connection pool (not for production use!)
+INFO  13-10-2018 17:45:36.774 [Main.main()] Hibernate connection pool size: 20
+INFO  13-10-2018 17:45:36.774 [Main.main()] autocommit mode: false
+INFO  13-10-2018 17:45:36.783 [Main.main()] using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://db4free.net:3306
+INFO  13-10-2018 17:45:36.783 [Main.main()] connection properties: {user=januszteam, password=****}
+INFO  13-10-2018 17:45:37.773 [Main.main()] RDBMS: MySQL, version: 8.0.12
+INFO  13-10-2018 17:45:37.773 [Main.main()] JDBC driver: MySQL Connector/J, version: mysql-connector-java-8.0.12 (Revision: 24766725dc6e017025532146d94c6e6c488fb8f1)
+INFO  13-10-2018 17:45:37.787 [Main.main()] Using dialect: org.hibernate.dialect.MySQLDialect
+INFO  13-10-2018 17:45:37.810 [Main.main()] Using default transaction strategy (direct JDBC transactions)
+INFO  13-10-2018 17:45:37.812 [Main.main()] No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+INFO  13-10-2018 17:45:37.812 [Main.main()] Automatic flush during beforeCompletion(): disabled
+INFO  13-10-2018 17:45:37.812 [Main.main()] Automatic session close at end of transaction: disabled
+INFO  13-10-2018 17:45:37.812 [Main.main()] JDBC batch size: 15
+INFO  13-10-2018 17:45:37.812 [Main.main()] JDBC batch updates for versioned data: disabled
+INFO  13-10-2018 17:45:37.813 [Main.main()] Scrollable result sets: enabled
+INFO  13-10-2018 17:45:37.813 [Main.main()] JDBC3 getGeneratedKeys(): enabled
+INFO  13-10-2018 17:45:37.813 [Main.main()] Connection release mode: auto
+INFO  13-10-2018 17:45:37.814 [Main.main()] Maximum outer join fetch depth: 2
+INFO  13-10-2018 17:45:37.814 [Main.main()] Default batch fetch size: 1
+INFO  13-10-2018 17:45:37.814 [Main.main()] Generate SQL with comments: disabled
+INFO  13-10-2018 17:45:37.814 [Main.main()] Order SQL updates by primary key: disabled
+INFO  13-10-2018 17:45:37.814 [Main.main()] Order SQL inserts for batching: disabled
+INFO  13-10-2018 17:45:37.814 [Main.main()] Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+INFO  13-10-2018 17:45:37.816 [Main.main()] Using ASTQueryTranslatorFactory
+INFO  13-10-2018 17:45:37.816 [Main.main()] Query language substitutions: {}
+INFO  13-10-2018 17:45:37.816 [Main.main()] JPA-QL strict compliance: disabled
+INFO  13-10-2018 17:45:37.817 [Main.main()] Second-level cache: enabled
+INFO  13-10-2018 17:45:37.817 [Main.main()] Query cache: disabled
+INFO  13-10-2018 17:45:37.817 [Main.main()] Cache provider: org.hibernate.cache.NoCacheProvider
+INFO  13-10-2018 17:45:37.817 [Main.main()] Optimize cache for minimal puts: disabled
+INFO  13-10-2018 17:45:37.817 [Main.main()] Structured second-level cache entries: disabled
+INFO  13-10-2018 17:45:37.820 [Main.main()] Statistics: disabled
+INFO  13-10-2018 17:45:37.820 [Main.main()] Deleted entity synthetic identifier rollback: disabled
+INFO  13-10-2018 17:45:37.822 [Main.main()] Default entity-mode: pojo
+INFO  13-10-2018 17:45:37.822 [Main.main()] Named query checking : enabled
+INFO  13-10-2018 17:45:37.846 [Main.main()] building session factory
+INFO  13-10-2018 17:45:37.851 [Main.main()] Not binding factory to JNDI, no JNDI name configured
+INFO  13-10-2018 17:45:40.281 [Main.main()] closing
+INFO  13-10-2018 17:45:40.282 [Main.main()] cleaning up connection pool: jdbc:mysql://db4free.net:3306
+INFO  13-10-2018 17:47:20.350 [Main.main()] Hibernate 3.2.6
+INFO  13-10-2018 17:47:20.353 [Main.main()] hibernate.properties not found
+INFO  13-10-2018 17:47:20.358 [Main.main()] Bytecode provider name : cglib
+INFO  13-10-2018 17:47:20.361 [Main.main()] using JDK 1.4 java.sql.Timestamp handling
+INFO  13-10-2018 17:47:20.396 [Main.main()] configuring from resource: hibernate.cfg.xml
+INFO  13-10-2018 17:47:20.396 [Main.main()] Configuration resource: hibernate.cfg.xml
+INFO  13-10-2018 17:47:20.754 [Main.main()] Configured SessionFactory: null
+INFO  13-10-2018 17:47:20.758 [Main.main()] Using Hibernate built-in connection pool (not for production use!)
+INFO  13-10-2018 17:47:20.758 [Main.main()] Hibernate connection pool size: 20
+INFO  13-10-2018 17:47:20.758 [Main.main()] autocommit mode: false
+INFO  13-10-2018 17:47:20.766 [Main.main()] using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://db4free.net:3306/compproject
+INFO  13-10-2018 17:47:20.767 [Main.main()] connection properties: {user=januszteam, password=****}
+INFO  13-10-2018 17:47:21.693 [Main.main()] RDBMS: MySQL, version: 8.0.12
+INFO  13-10-2018 17:47:21.693 [Main.main()] JDBC driver: MySQL Connector/J, version: mysql-connector-java-8.0.12 (Revision: 24766725dc6e017025532146d94c6e6c488fb8f1)
+INFO  13-10-2018 17:47:21.704 [Main.main()] Using dialect: org.hibernate.dialect.MySQLDialect
+INFO  13-10-2018 17:47:21.722 [Main.main()] Using default transaction strategy (direct JDBC transactions)
+INFO  13-10-2018 17:47:21.723 [Main.main()] No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+INFO  13-10-2018 17:47:21.723 [Main.main()] Automatic flush during beforeCompletion(): disabled
+INFO  13-10-2018 17:47:21.724 [Main.main()] Automatic session close at end of transaction: disabled
+INFO  13-10-2018 17:47:21.724 [Main.main()] JDBC batch size: 15
+INFO  13-10-2018 17:47:21.724 [Main.main()] JDBC batch updates for versioned data: disabled
+INFO  13-10-2018 17:47:21.724 [Main.main()] Scrollable result sets: enabled
+INFO  13-10-2018 17:47:21.724 [Main.main()] JDBC3 getGeneratedKeys(): enabled
+INFO  13-10-2018 17:47:21.724 [Main.main()] Connection release mode: auto
+INFO  13-10-2018 17:47:21.725 [Main.main()] Maximum outer join fetch depth: 2
+INFO  13-10-2018 17:47:21.725 [Main.main()] Default batch fetch size: 1
+INFO  13-10-2018 17:47:21.725 [Main.main()] Generate SQL with comments: disabled
+INFO  13-10-2018 17:47:21.725 [Main.main()] Order SQL updates by primary key: disabled
+INFO  13-10-2018 17:47:21.725 [Main.main()] Order SQL inserts for batching: disabled
+INFO  13-10-2018 17:47:21.725 [Main.main()] Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+INFO  13-10-2018 17:47:21.726 [Main.main()] Using ASTQueryTranslatorFactory
+INFO  13-10-2018 17:47:21.726 [Main.main()] Query language substitutions: {}
+INFO  13-10-2018 17:47:21.726 [Main.main()] JPA-QL strict compliance: disabled
+INFO  13-10-2018 17:47:21.727 [Main.main()] Second-level cache: enabled
+INFO  13-10-2018 17:47:21.727 [Main.main()] Query cache: disabled
+INFO  13-10-2018 17:47:21.727 [Main.main()] Cache provider: org.hibernate.cache.NoCacheProvider
+INFO  13-10-2018 17:47:21.727 [Main.main()] Optimize cache for minimal puts: disabled
+INFO  13-10-2018 17:47:21.727 [Main.main()] Structured second-level cache entries: disabled
+INFO  13-10-2018 17:47:21.729 [Main.main()] Statistics: disabled
+INFO  13-10-2018 17:47:21.730 [Main.main()] Deleted entity synthetic identifier rollback: disabled
+INFO  13-10-2018 17:47:21.730 [Main.main()] Default entity-mode: pojo
+INFO  13-10-2018 17:47:21.730 [Main.main()] Named query checking : enabled
+INFO  13-10-2018 17:47:21.749 [Main.main()] building session factory
+INFO  13-10-2018 17:47:21.752 [Main.main()] Not binding factory to JNDI, no JNDI name configured
+INFO  13-10-2018 17:47:25.347 [Main.main()] closing
+INFO  13-10-2018 17:47:25.347 [Main.main()] cleaning up connection pool: jdbc:mysql://db4free.net:3306/compproject
