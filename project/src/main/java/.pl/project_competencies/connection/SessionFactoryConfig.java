@@ -10,13 +10,13 @@ import java.util.Map;
 public class SessionFactoryConfig {
 
     private static Map<String, SessionFactory> sessionFactories = new HashMap<>();
-
+    private String configFileName = "hibernate.cfg.xml";
     private SessionFactoryConfig() {
 
     }
 
-    public synchronized static SessionFactory getSessionFactory(String configFileName) {
-
+    public synchronized static SessionFactory getSessionFactory() {
+        String configFileName = "hibernate.cfg.xml";
         SessionFactory result = sessionFactories.get(configFileName);
 
         if (result == null || result.isClosed()) {
