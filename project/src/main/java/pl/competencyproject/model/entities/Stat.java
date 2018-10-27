@@ -5,27 +5,28 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-public class Stats {
+@Table(name = "STATS")
+public class Stat {
 
 
-    @Column(name = "idStats")
-    @Temporal(TemporalType.TIMESTAMP)
-    Date dateInput;
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "idStats")
+
     private int idStats;
-    @Column(name = "idUser")
+
     private int idUser;
-    @Column(name = "idLevel")
+
     private int idLevel;
-    @Column(name = "valueProgres")
+
+    @Temporal(TemporalType.TIMESTAMP)
+    Date dateInput;
+
     private double valueProgres;
 
-    public Stats() {
+    public Stat() {
     }
 
-    public Stats(int idUser, int idLevel, Date dateInput, double valueProgres) {
+    public Stat(int idUser, int idLevel, Date dateInput, double valueProgres) {
         this.idUser = idUser;
         this.idLevel = idLevel;
         this.dateInput = dateInput;
