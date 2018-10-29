@@ -2,40 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33fa57d-be97-447d-bbd7-f380cd5582ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/DAO/ManageUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Definition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/logs/commpetencyProject.log" beforeDir="false" afterPath="$PROJECT_DIR$/project/logs/commpetencyProject.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/GeneralSQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stats.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/MainMenuLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainMenuLayout.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainScreen.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/Nauka.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/Nauka.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/logon.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/test.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/test.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/src/main/resources/user.hbm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/MainMenuLayout.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/MainScreen.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/Nauka.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/logon.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/LogonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MenuLayoutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/TeachingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/fxmls/logon.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/fxmls/logon.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/Main$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/pl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/connection/GeneralSQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/connection/SessionFactoryConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/connection/SessionFactoryConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/entities/Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/entities/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/test.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/classes/user.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/entities/Stat.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/model/entities/Stat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/project-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/project-1.0.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -114,57 +100,59 @@
     <session id="1867183626">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="java" value="4129" />
+          <entry key="fxml" value="5" />
+          <entry key="java" value="4424" />
           <entry key="properties" value="19" />
           <entry key="txt" value="16" />
-          <entry key="xml" value="470" />
+          <entry key="xml" value="471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4129" />
+          <entry key="JAVA" value="4424" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="Properties" value="19" />
-          <entry key="XML" value="470" />
+          <entry key="XML" value="476" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/User" value="1" />
+          <entry key="fxml" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="25" />
+          <entry key="java" value="31" />
           <entry key="log" value="1" />
           <entry key="properties" value="2" />
-          <entry key="xml" value="10" />
+          <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="31" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="2" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="10" />
+          <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -175,41 +163,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java">
+        <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Definition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="399">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -217,13 +175,78 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="76">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -232,38 +255,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/DAO/ManageUsers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="848">
-              <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
+            <state relative-caret-position="1843">
+              <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -294,10 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project/src/main/java/.pl/peoject_competencies/connection/SessionFactoryConfig.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/.pl/peoject_competencies/connection/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/project/src/main/java/.pl/peoject_competencies/connection/Session.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/connection/Session.java" />
         <option value="$PROJECT_DIR$/project/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/project/src/main/java/SingletonApp.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/singletonAplication/SingletonApp.java" />
@@ -323,7 +315,6 @@
         <option value="$PROJECT_DIR$/project/src/main/java/pl/project_competencies/model/entities/Stats.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/main/Main.java" />
         <option value="$PROJECT_DIR$/project/src/java/pl/main/Main.java" />
-        <option value="$PROJECT_DIR$/project/pom.xml" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Users.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translations.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stats.java" />
@@ -332,17 +323,24 @@
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/LEVELS.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/EXAMPLES.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/TRANSLATIONS.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/STATS.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/DEFINITIONS.java" />
-        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Definition.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/DAO/ManageUsers.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Definition.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java" />
+        <option value="$PROJECT_DIR$/project/pom.xml" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/pl/Main.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java" />
+        <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java" />
+        <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" />
       </list>
     </option>
   </component>
@@ -400,7 +398,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope">
+          <expand>
+            <path>
+              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -451,7 +477,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="competencyproject" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CommpetencyProject" type="b2602c69:ProjectViewProjectNode" />
@@ -472,35 +498,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope">
-          <expand>
-            <path>
-              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -510,7 +508,7 @@
     <property name="SearchEverywhereHistoryKey" value="find action&#9;ACTION&#9;GotoAction" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540673155491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540674363748" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/project/src/main/java" />
     <property name="last_opened_file_path" value="F:/PROGRAMY/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -522,18 +520,18 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\STUDIA\SEM_5\Projekt kompetencyjny\project\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\STUDIA\SEM_5\CommpetencyProject\project\src\main\resources\fxmls" />
       <recent name="D:\STUDIA\SEM_5\CommpetencyProject\project\src\main" />
       <recent name="D:\STUDIA\SEM_5\CommpetencyProject\project\src" />
       <recent name="D:\STUDIA\SEM_5\CommpetencyProject\project\src\main\resources" />
       <recent name="D:\STUDIA\SEM_5\CommpetencyProject\project\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\STUDIA\SEM_5\Projekt kompetencyjny\project\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -640,7 +638,11 @@
       <workItem from="1540455374010" duration="7000" />
       <workItem from="1540468843253" duration="341000" />
       <workItem from="1540482800904" duration="8000" />
-      <workItem from="1540664373710" duration="7687000" />
+      <workItem from="1540664373710" duration="9071000" />
+      <workItem from="1540682532744" duration="8000" />
+      <workItem from="1540815777956" duration="1344000" />
+      <workItem from="1540846432371" duration="128000" />
+      <workItem from="1540846588526" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="coś">
       <created>1540308222428</created>
@@ -661,7 +663,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54222000" />
+    <option name="totallyTimeSpent" value="57779000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,10 +675,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -685,10 +687,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" weight="0.32995737" />
       <window_info id="Persistence" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Hibernate Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6395973" visible="true" weight="0.47939262" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6395973" visible="true" weight="0.47722343" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -700,6 +701,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.329718" />
+      <window_info anchor="bottom" id="Hibernate Console" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -840,20 +842,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/GeneralSQL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5263">
-          <caret line="277" column="31" selection-start-line="277" selection-start-column="31" selection-end-line="277" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/GeneralSQL.java" />
     <entry file="file://$PROJECT_DIR$/project/project.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -861,45 +850,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/project/src/main/resources/user.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/project/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="76" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        <state relative-caret-position="5339">
+          <caret line="303" column="58" lean-forward="true" selection-start-line="303" selection-start-column="58" selection-end-line="303" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java">
+    <entry file="jar://F:/PROGRAMY/Java 8/jdk/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="56">
+          <caret line="137" column="36" lean-forward="true" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="380">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -908,45 +877,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Definition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="171">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Translation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/DAO/ManageUsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
+        <state relative-caret-position="1843">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/resources/user.hbm.xml">
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/Main.java">
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        <state relative-caret-position="87">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
