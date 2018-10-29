@@ -5,7 +5,7 @@
 <?import javafx.scene.Cursor?>
 <?import javafx.scene.layout.*?>
 <AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="516.0" prefWidth="794.0"
-            xmlns="http://javafx.com/javafx/9.0.1" fx:controller="Controllers.TeachingController">
+            xmlns="http://javafx.com/javafx/9.0.1" fx:controller="pl.competencyproject.controller..TeachingController">
     <children>
         <BorderPane minHeight="400.0" prefHeight="516.0" prefWidth="794.0" AnchorPane.bottomAnchor="0.0"
                     AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">

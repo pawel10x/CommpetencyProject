@@ -26,10 +26,10 @@ public class Stat {
     public Stat() {
     }
 
-    public Stat(int idUser, int idLevel, Date dateInput, double valueProgres) {
+    public Stat(int idUser, int idLevel, double valueProgres) {
         this.idUser = idUser;
         this.idLevel = idLevel;
-        this.dateInput = dateInput;
+        this.dateInput = new Date();
         this.valueProgres = valueProgres;
     }
 
