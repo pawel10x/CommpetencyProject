@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e33fa57d-be97-447d-bbd7-f380cd5582ec" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/controller/LogonController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/controller/MainController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/controller/TeachingController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/controller/TestController.class" afterDir="false" />
+=======
+>>>>>>> master
 =======
 >>>>>>> master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -19,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/entities/Stat.java" afterDir="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainMenuLayout.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainMenuLayout.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainScreen.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/MainScreen.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/src/main/resources/fxmls/Nauka.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/Nauka.fxml" afterDir="false" />
@@ -28,10 +32,15 @@
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MainController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MenuLayoutController.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/classes/pl/competencyproject/controller/MenuLayoutController.class" afterDir="false" />
 =======
+=======
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/LogonController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MainController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/MenuLayoutController.class" beforeDir="false" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/TeachingController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/classes/Controllers/TestController.class" beforeDir="false" />
@@ -138,7 +147,11 @@
         <counts>
           <entry key="dummy" value="17" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="fxml" value="25" />
+=======
+          <entry key="fxml" value="5" />
+>>>>>>> master
 =======
           <entry key="fxml" value="5" />
 >>>>>>> master
@@ -154,7 +167,11 @@
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="Properties" value="19" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="XML" value="496" />
+=======
+          <entry key="XML" value="476" />
+>>>>>>> master
 =======
           <entry key="XML" value="476" />
 >>>>>>> master
@@ -164,7 +181,11 @@
         <counts>
           <entry key="JAVA/User" value="1" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="fxml" value="5" />
+=======
+          <entry key="fxml" value="1" />
+>>>>>>> master
 =======
           <entry key="fxml" value="1" />
 >>>>>>> master
@@ -183,7 +204,11 @@
           <entry key="Properties" value="2" />
           <entry key="UML" value="1" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="XML" value="17" />
+=======
+          <entry key="XML" value="13" />
+>>>>>>> master
 =======
           <entry key="XML" value="13" />
 >>>>>>> master
@@ -199,10 +224,17 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+>>>>>>> master
 =======
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -214,6 +246,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -229,16 +262,29 @@
             <state relative-caret-position="76">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
 >>>>>>> master
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/connection/SessionFactoryConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+>>>>>>> master
 =======
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MenuLayoutController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -251,21 +297,28 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
 =======
+=======
+>>>>>>> master
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
@@ -275,6 +328,10 @@
 =======
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> master
             <state relative-caret-position="87">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
@@ -288,11 +345,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/MainMenuLayout.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+>>>>>>> master
 =======
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -305,12 +369,15 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/MainScreen.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="97" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
 =======
+=======
+>>>>>>> master
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
@@ -325,12 +392,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/resources/fxmls/Nauka.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
@@ -350,11 +421,18 @@
 =======
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java">
           <provider selected="true" editor-type-id="text-editor">
+=======
+        <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> master
             <state relative-caret-position="190">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
             </state>
           </provider>
@@ -362,15 +440,21 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
 =======
+=======
+>>>>>>> master
         <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/model/DAO/ManageUsers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1843">
               <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
               <folding>
                 <element signature="imports" expanded="true" />
@@ -406,7 +490,10 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
         <option value="$PROJECT_DIR$/project/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/project/src/main/java/SingletonApp.java" />
         <option value="$PROJECT_DIR$/project/src/main/java/.pl/project_competencies/singletonAplication/SingletonApp.java" />
@@ -460,10 +547,13 @@
         <option value="$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/LogonController.java" />
         <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/logon.fxml" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/MainMenuLayout.fxml" />
         <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/MainScreen.fxml" />
         <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/Nauka.fxml" />
         <option value="$PROJECT_DIR$/project/src/main/resources/fxmls/test.fxml" />
+=======
+>>>>>>> master
 =======
 >>>>>>> master
       </list>
@@ -526,7 +616,10 @@
       <pane id="Scope">
         <subPane subId="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
           <expand>
             <path>
               <item name="CommpetencyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -626,6 +719,10 @@
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="competencyproject" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
 =======
               <item name="controller" type="462c0819:PsiDirectoryNode" />
 >>>>>>> master
@@ -794,7 +891,11 @@
       <workItem from="1540815777956" duration="1344000" />
       <workItem from="1540846432371" duration="128000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1540846588526" duration="834000" />
+=======
+      <workItem from="1540846588526" duration="693000" />
+>>>>>>> master
 =======
       <workItem from="1540846588526" duration="693000" />
 >>>>>>> master
@@ -819,7 +920,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="57920000" />
+=======
+    <option name="totallyTimeSpent" value="57779000" />
+>>>>>>> master
 =======
     <option name="totallyTimeSpent" value="57779000" />
 >>>>>>> master
@@ -838,7 +943,11 @@
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+>>>>>>> master
 =======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
 >>>>>>> master
@@ -853,7 +962,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6395973" visible="true" weight="0.47722343" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6395973" visible="true" weight="0.47722343" />
+>>>>>>> master
 =======
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6395973" visible="true" weight="0.47722343" />
 >>>>>>> master
@@ -1137,6 +1250,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TeachingController.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -1190,6 +1304,16 @@
           <caret line="11" column="104" lean-forward="true" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
 =======
       <provider selected="true" editor-type-id="text-editor">
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/main/java/pl/competencyproject/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> master
         <state relative-caret-position="190">
           <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
@@ -1200,6 +1324,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
         </state>
       </provider>
